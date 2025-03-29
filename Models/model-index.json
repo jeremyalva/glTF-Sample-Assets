@@ -848,7 +848,7 @@
     "screenshot": "screenshot/screenshot.jpg",
     "tags": ["showcase","video","extension"],
     "variants": {
-      "glTF": "CuboMadera.gltf"
+      "glTF": "MESCuboMadera.gltf"
     }
   },
   {
