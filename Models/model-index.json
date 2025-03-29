@@ -843,6 +843,15 @@
     }
   },
   {
+    "label": "MESCuboMadera",
+    "name": "MESCuboMadera",
+    "screenshot": "screenshot/screenshot.jpg",
+    "tags": ["showcase","video","extension"],
+    "variants": {
+      "glTF": "CuboMadera.gltf"
+    }
+  },
+  {
     "label": "Mesh Primitive Modes",
     "name": "MeshPrimitiveModes",
     "screenshot": "screenshot/screenshot.png",
